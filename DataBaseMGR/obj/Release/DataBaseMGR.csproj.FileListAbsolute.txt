@@ -1,0 +1,13 @@
+C:\Users\omidm\Source\repos\ManoloSellManager\DataBaseMGR\bin\Release\DataBaseMGR.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\DataBaseMGR\bin\Release\DataBaseMGR.pdb
+C:\Users\omidm\Source\repos\ManoloSellManager\DataBaseMGR\bin\Release\Generals.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\DataBaseMGR\bin\Release\MySql.Data.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\DataBaseMGR\bin\Release\MySqlBackup.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\DataBaseMGR\bin\Release\Kavenegar.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\DataBaseMGR\bin\Release\Newtonsoft.Json.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\DataBaseMGR\bin\Release\Generals.pdb
+C:\Users\omidm\Source\repos\ManoloSellManager\DataBaseMGR\bin\Release\Kavenegar.pdb
+C:\Users\omidm\Source\repos\ManoloSellManager\DataBaseMGR\obj\Release\DataBaseMGR.csprojResolveAssemblyReference.cache
+C:\Users\omidm\Source\repos\ManoloSellManager\DataBaseMGR\obj\Release\DataBaseMGR.csproj.CoreCompileInputs.cache
+C:\Users\omidm\Source\repos\ManoloSellManager\DataBaseMGR\obj\Release\DataBaseMGR.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\DataBaseMGR\obj\Release\DataBaseMGR.pdb

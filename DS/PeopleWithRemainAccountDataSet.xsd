@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="PeopleWithRemainAccountDataSet" targetNamespace="http://tempuri.org/PeopleWithRemainAccountDataSet.xsd" xmlns:mstns="http://tempuri.org/PeopleWithRemainAccountDataSet.xsd" xmlns="http://tempuri.org/PeopleWithRemainAccountDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="accountingConnectionString2" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="accountingConnectionString2 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.ZamoSellManager.Properties.Settings.GlobalReference.Default.accountingConnectionString2" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="peoplewithremainaccountTableAdapter" GeneratorDataComponentClassName="peoplewithremainaccountTableAdapter" Name="peoplewithremainaccount" UserDataComponentName="peoplewithremainaccountTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="accountingConnectionString2 (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `Pid`, `phone`, `name`, `AID`, `personalId`, `payPrice`, `payAbout`, `payMethod`, `payType`, `payTime`, `payDate`, `status`, `remainaccount` FROM `accounting`.`peoplewithremainaccount`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Pid" DataSetColumn="Pid" />
+              <Mapping SourceColumn="phone" DataSetColumn="phone" />
+              <Mapping SourceColumn="name" DataSetColumn="name" />
+              <Mapping SourceColumn="AID" DataSetColumn="AID" />
+              <Mapping SourceColumn="personalId" DataSetColumn="personalId" />
+              <Mapping SourceColumn="payPrice" DataSetColumn="payPrice" />
+              <Mapping SourceColumn="payAbout" DataSetColumn="payAbout" />
+              <Mapping SourceColumn="payMethod" DataSetColumn="payMethod" />
+              <Mapping SourceColumn="payType" DataSetColumn="payType" />
+              <Mapping SourceColumn="payTime" DataSetColumn="payTime" />
+              <Mapping SourceColumn="payDate" DataSetColumn="payDate" />
+              <Mapping SourceColumn="status" DataSetColumn="status" />
+              <Mapping SourceColumn="remainaccount" DataSetColumn="remainaccount" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="PeopleWithRemainAccountDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="PeopleWithRemainAccountDataSet" msprop:Generator_UserDSName="PeopleWithRemainAccountDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="peoplewithremainaccount" msprop:Generator_TableClassName="peoplewithremainaccountDataTable" msprop:Generator_TableVarName="tablepeoplewithremainaccount" msprop:Generator_TablePropName="peoplewithremainaccount" msprop:Generator_RowDeletingName="peoplewithremainaccountRowDeleting" msprop:Generator_RowChangingName="peoplewithremainaccountRowChanging" msprop:Generator_RowEvHandlerName="peoplewithremainaccountRowChangeEventHandler" msprop:Generator_RowDeletedName="peoplewithremainaccountRowDeleted" msprop:Generator_UserTableName="peoplewithremainaccount" msprop:Generator_RowChangedName="peoplewithremainaccountRowChanged" msprop:Generator_RowEvArgName="peoplewithremainaccountRowChangeEvent" msprop:Generator_RowClassName="peoplewithremainaccountRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Pid" msprop:Generator_ColumnVarNameInTable="columnPid" msprop:Generator_ColumnPropNameInRow="Pid" msprop:Generator_ColumnPropNameInTable="PidColumn" msprop:Generator_UserColumnName="Pid" type="xs:int" />
+              <xs:element name="phone" msprop:Generator_ColumnVarNameInTable="columnphone" msprop:Generator_ColumnPropNameInRow="phone" msprop:Generator_ColumnPropNameInTable="phoneColumn" msprop:Generator_UserColumnName="phone">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="155" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="name" msprop:Generator_ColumnVarNameInTable="columnname" msprop:Generator_ColumnPropNameInRow="name" msprop:Generator_ColumnPropNameInTable="nameColumn" msprop:Generator_UserColumnName="name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="125" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="AID" msprop:Generator_ColumnVarNameInTable="columnAID" msprop:Generator_ColumnPropNameInRow="AID" msprop:Generator_ColumnPropNameInTable="AIDColumn" msprop:Generator_UserColumnName="AID" type="xs:int" />
+              <xs:element name="personalId" msprop:Generator_ColumnVarNameInTable="columnpersonalId" msprop:Generator_ColumnPropNameInRow="personalId" msprop:Generator_ColumnPropNameInTable="personalIdColumn" msprop:Generator_UserColumnName="personalId" type="xs:int" />
+              <xs:element name="payPrice" msprop:Generator_ColumnVarNameInTable="columnpayPrice" msprop:Generator_ColumnPropNameInRow="payPrice" msprop:Generator_ColumnPropNameInTable="payPriceColumn" msprop:Generator_UserColumnName="payPrice" type="xs:float" />
+              <xs:element name="payAbout" msprop:Generator_ColumnVarNameInTable="columnpayAbout" msprop:Generator_ColumnPropNameInRow="payAbout" msprop:Generator_ColumnPropNameInTable="payAboutColumn" msprop:Generator_UserColumnName="payAbout">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="payMethod" msprop:Generator_ColumnVarNameInTable="columnpayMethod" msprop:Generator_ColumnPropNameInRow="payMethod" msprop:Generator_ColumnPropNameInTable="payMethodColumn" msprop:Generator_UserColumnName="payMethod">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="payType" msprop:Generator_ColumnVarNameInTable="columnpayType" msprop:Generator_ColumnPropNameInRow="payType" msprop:Generator_ColumnPropNameInTable="payTypeColumn" msprop:Generator_UserColumnName="payType">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="payTime" msprop:Generator_ColumnVarNameInTable="columnpayTime" msprop:Generator_ColumnPropNameInRow="payTime" msprop:Generator_ColumnPropNameInTable="payTimeColumn" msprop:Generator_UserColumnName="payTime" type="xs:duration" />
+              <xs:element name="payDate" msprop:Generator_ColumnVarNameInTable="columnpayDate" msprop:Generator_ColumnPropNameInRow="payDate" msprop:Generator_ColumnPropNameInTable="payDateColumn" msprop:Generator_UserColumnName="payDate">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="status" msprop:Generator_ColumnVarNameInTable="columnstatus" msprop:Generator_ColumnPropNameInRow="status" msprop:Generator_ColumnPropNameInTable="statusColumn" msprop:Generator_UserColumnName="status" type="xs:int" />
+              <xs:element name="remainaccount" msprop:Generator_ColumnVarNameInTable="columnremainaccount" msprop:Generator_ColumnPropNameInRow="remainaccount" msprop:Generator_ColumnPropNameInTable="remainaccountColumn" msprop:Generator_UserColumnName="remainaccount" type="xs:float" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
