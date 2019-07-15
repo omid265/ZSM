@@ -1,0 +1,10 @@
+C:\Users\omidm\Source\repos\ManoloSellManager\Generals\Generals\bin\Release\Generals.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\Generals\Generals\bin\Release\Generals.pdb
+C:\Users\omidm\Source\repos\ManoloSellManager\Generals\Generals\bin\Release\Kavenegar.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\Generals\Generals\bin\Release\Newtonsoft.Json.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\Generals\Generals\bin\Release\Kavenegar.pdb
+C:\Users\omidm\Source\repos\ManoloSellManager\Generals\Generals\obj\Release\Generals.controls.PersianDatePicker.resources
+C:\Users\omidm\Source\repos\ManoloSellManager\Generals\Generals\obj\Release\Generals.csproj.GenerateResource.Cache
+C:\Users\omidm\Source\repos\ManoloSellManager\Generals\Generals\obj\Release\Generals.csproj.CoreCompileInputs.cache
+C:\Users\omidm\Source\repos\ManoloSellManager\Generals\Generals\obj\Release\Generals.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\Generals\Generals\obj\Release\Generals.pdb
