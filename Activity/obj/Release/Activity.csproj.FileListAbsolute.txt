@@ -1,0 +1,9 @@
+C:\Users\omidm\Source\repos\ManoloSellManager\Activity\bin\Release\Activity.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\Activity\bin\Release\Activity.pdb
+C:\Users\omidm\Source\repos\ManoloSellManager\Activity\bin\Release\DataBaseManager.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\Activity\bin\Release\MySql.Data.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\Activity\bin\Release\DataBaseManager.pdb
+C:\Users\omidm\Source\repos\ManoloSellManager\Activity\obj\Release\Activity.csprojResolveAssemblyReference.cache
+C:\Users\omidm\Source\repos\ManoloSellManager\Activity\obj\Release\Activity.csproj.CoreCompileInputs.cache
+C:\Users\omidm\Source\repos\ManoloSellManager\Activity\obj\Release\Activity.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\Activity\obj\Release\Activity.pdb

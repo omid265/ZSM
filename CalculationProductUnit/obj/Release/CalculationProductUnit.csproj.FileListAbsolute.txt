@@ -1,0 +1,15 @@
+C:\Users\omidm\Source\repos\ManoloSellManager\CalculationProductUnit\bin\Release\CalculationProductUnit.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\CalculationProductUnit\bin\Release\CalculationProductUnit.pdb
+C:\Users\omidm\Source\repos\ManoloSellManager\CalculationProductUnit\bin\Release\DataBaseMGR.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\CalculationProductUnit\bin\Release\Generals.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\CalculationProductUnit\bin\Release\MySql.Data.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\CalculationProductUnit\bin\Release\MySqlBackup.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\CalculationProductUnit\bin\Release\Kavenegar.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\CalculationProductUnit\bin\Release\Newtonsoft.Json.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\CalculationProductUnit\bin\Release\DataBaseMGR.pdb
+C:\Users\omidm\Source\repos\ManoloSellManager\CalculationProductUnit\bin\Release\Generals.pdb
+C:\Users\omidm\Source\repos\ManoloSellManager\CalculationProductUnit\bin\Release\Kavenegar.pdb
+C:\Users\omidm\Source\repos\ManoloSellManager\CalculationProductUnit\obj\Release\CalculationProductUnit.csprojResolveAssemblyReference.cache
+C:\Users\omidm\Source\repos\ManoloSellManager\CalculationProductUnit\obj\Release\CalculationProductUnit.csproj.CoreCompileInputs.cache
+C:\Users\omidm\Source\repos\ManoloSellManager\CalculationProductUnit\obj\Release\CalculationProductUnit.dll
+C:\Users\omidm\Source\repos\ManoloSellManager\CalculationProductUnit\obj\Release\CalculationProductUnit.pdb

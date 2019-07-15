@@ -1,0 +1,8 @@
+{
+	"Database": {
+		"Server": "localhost",
+		"UserName": "root",
+		"Password": "",
+		"DataBaseName": "accountingV2"
+	}
+}
